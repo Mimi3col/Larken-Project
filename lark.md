@@ -25,7 +25,7 @@
 - cat 
 
 ##  split between people  
-- cd, ls, searcing and pipe 
+- cd, ls, searcing and pipe | Tert change
 - vim - *Braxton* 
 - grep, wc, ls -la, pipe  -*Amanda*
 - making variables, run permissins , and - **travis** 
