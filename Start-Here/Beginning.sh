@@ -8,8 +8,7 @@
 echo "Welcome, Investigator. The Console Killer Has struck agian"
 sleep 3 
 
-echo "They have killed in the 4 locations: Hotel, Library, Docks, "
-echo "and in the Mansion"
+echo "They have killed in the 4 locations: Hotel, Library, Docks, and in the Mansion"
 sleep 4
 
 echo "You can go to each of the scene in any order you wish"
@@ -28,10 +27,10 @@ then
   echo "Correct, Good job"
   touch notebook
    else
-    echo "good try. one more time"
+    echo "good try." 
 fi
 
-echo "now type ls to see your notebook"
+echo "now type 'ls' to see your notebook and the things around you"
 printf ">> "
 read arg2 
 if [ "$arg2" == "ls" ]
@@ -42,15 +41,31 @@ if [ "$arg2" == "ls" ]
 fi
 
 sleep 3 
-echo "from place to place you can add things to this notebook by doing"
-echo 'echo "my notebook" >> notebook' 
+echo "from place to place you can add things to this notebook by doing this"
+sleep 2 
+echo ">> echo \"______\" >> notebook "
+echo "What you put inside the \" \" will be ammended into the notebook"
+sleep 2 
+printf ">> "
+echo 'echo "my notebook" >> notebook, fill in the blank'
 read arg4 
-if [ "$arg4" == "echo \"My notebook\" >> notebook" ]
+  echo "$arg4" >> notebook
+
+echo "good job" 
+
+echo "lastly you need to be able to open your notebook and any other files"
+sleep 2 
+echo "To do this type: cat notebook(enter)"
+printf ">> cat "
+read arg5 
+if [ "arg5" == "notebook" ]
 then 
-  echo "greate job, this is inside your notebook"
-  cat notebook
+  cat notebook 
 else 
-  echo "try again"
+  echo "Good Try"
 fi 
+
+# This is how to use the 4 functions. 
+
 
 
