@@ -88,6 +88,8 @@ read -p "Enter the word now: " word3
 
 if [ $word3 == "sailor" ]; then
 echo "*Chhh* The box swings open!!!"
+echo "Inside you find a scrap of paper from a notebook with the picture of a woman (you now have access to the notebook is you type "ls")"
+mv .Notepage Notepage
 
 else
 echo "Incorrect!!!"
@@ -98,5 +100,5 @@ echo "Wrong!!!"
 fi
 
 else 
-echo "Incorrect!!!"
+echo "BZZZZT!!!!"
 fi
