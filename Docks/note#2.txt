@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------------
+HAHAHAHHA! I know you had fun with that last one. I'm sure it bought me quite some time.
+But since I love a good challange I'll show you some secrets to decode faster...
+To decode the nect note you'll need to
+First- Enter "set number" to create line numbers to keep track of everything
+Second- Move to the end of line 7 and delete it (Note: to delete with "Backspace" press "i" to enter input mode then delete)
+Third- Then press "esc" and move to the new line 7 and enter "dd" this will delete the whole line! shoulda told you that first...hehe whoops
+Fourth- Repeat step three untill there are only 8 lines total
+Fifth- Enter "gg" to move to the top of the file then delete the first line of text (Note: Do not delete the "#!/bin/bash" or "echo")
+Sixth- Enter "G" to move to the end of the file then delete the last line
+Seventh- Repeat steps five and six until there is only one line left
+Eight- Jump to the 6th word by moving your cursor to the start of the line with "0" if it isn't already there then entering "6w"
+Ninth- This is the next word in the puzzle (Note: it will be less than four letters long)

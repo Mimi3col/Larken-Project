@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------------------------------------------------
+Why don't you start by "./note#1.sh" and see how far that gets you!
+If you wanna clean it and catch ke you're gonna have to follow my instructions very carefully..
+First- type "vim note#1.sh" to enter the vim window and clean up that mess
+Second- You must press "i" to enter the input mode and use the arrow keys  erase the third line by holding down the "Backspace" key at the end of the line
+Third- Use the arrow keys to go to and delete the thirteenth and fourteenth words from the start (Note: thirteenth and fourteenth before deleting anything)
+Fourth- Go to the end of the file and delete the last 12 words of the file
+Fifth- Go to the beginning of the file and delete the first 11 words (Note: commands like echo that are yellow will never need to be interacted with so do not delete them)
+Sixth- Press "i" to add a closing qoute mark " to finish the echo command f it's not already there (Note: to exit vim press "esc" to leave the input mode and enter commands again)

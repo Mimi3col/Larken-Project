@@ -1,0 +1,11 @@
+----------------------------------------------------------------------------
+Wooooow look at you go. Getting all the way to the final note!
+Well get ready because this one is a doozy..
+First- Enter /on to sesrch for every instance of with word on.
+Second- Delete each line with a highlighted on
+Third- Enter "gg" to return to the top of the file
+Fourth- Enter "7j" to jump forward 7 lines then delete the line you endded on and any lines below it
+Fifth- Search for the word back (Note: Refer to step one)
+Sixth- Delete every line that does not contain the word back highlighted (Note: Not including the "#!/bin/bash" and echo lines those should remain)
+Seventh- Enter "esc" then ":noh" to remove the highlight around the words
+Eigth- The sixth word will be the final clue. Good luck.
