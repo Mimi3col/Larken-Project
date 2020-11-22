@@ -1,0 +1,31 @@
+            _       
+  /\  /\___| |_ __  
+ / /_/ / _ \ | '_ \ 
+/ __  /  __/ | |_) |
+\/ /_/ \___|_| .__/ 
+             |_|   
+
+you are in the Library Directory
+
+You need job is to search though the books around the libary
+you are looking for a numbers that will be put together to form 
+a code you will then input into the Locked_Cabnet.sh. 
+
+
+
+
+ ------
+| grep |  allows you to search though a list of files. 
+ ------
+
+to search through the output of a file you need to first cat 
+the file like this 
+ ----------------------------
+|cat 'The Catcher In The Rye'| This allows you to see the contents
+ ----------------------------  The file.
+
+ If you put the two commands together like 
+
+ cat 'The Catcher In The Rye' | grep code 
+
+ you will be able to search for the code to open the locked cabnet. 

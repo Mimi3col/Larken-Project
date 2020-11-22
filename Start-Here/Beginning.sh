@@ -5,67 +5,74 @@
 # Your curriocity is rewarded...
 
 
-echo "Welcome, Investigator. The Console Killer Has struck agian"
+echo "Welcome, Investigator. The Console Killer Has struck again"
 sleep 3 
 
-echo "They have killed in the 4 locations: Hotel, Library, Docks, and in the Mansion"
-sleep 4
+echo "They have killed in the 4 locations around town: Library, Docks, Hotel,"
+echo "and the Mansion's Bedroom(found under Bedroom) "
+sleep 8 
+echo " "
+echo "lets take a look at the \"Welcome to Console\" page you receaved" 
+echo " "
+cat Welcome 
+sleep 15
+echo " "
+echo " "
+echo " the flyer does not cover how to navigate out of a folder..."
+echo " travling from place to place can be done by using cd as seen in the Welcome page"
+echo " "
+cat .cdinfo 
 
-echo "You can go to each of the scene in any order you wish"
-sleep 3
+echo 
+echo "to clean up the screen, type clear(enter)"
+echo try it: 
 
-echo "Each of the scene's should give you clues on who is the killer."
-sleep 3 
-echo "you need to make a notebook that you keep with you where ever you go."
-sleep 3 
-echo "to make a notebook finish the statment: touch notebook(enter)"
-printf ">> touch "
-read arg1
-#read arg2
-if [ "$arg1" == "notebook" ]
+read input3
+if [ "$input3" == "clear" ]
 then 
-  echo "Correct, Good job"
-  touch notebook
-   else
-    echo "good try." 
-fi
-
-echo "now type 'ls' to see your notebook and the things around you"
-printf ">> "
-read arg2 
-if [ "$arg2" == "ls" ]
-  then 
-    ls 
-   else 
-    echo "good try"
-fi
-
-sleep 3 
-echo "from place to place you can add things to this notebook by doing this"
-sleep 2 
-echo ">> echo \"______\" >> notebook "
-echo "What you put inside the \" \" will be ammended into the notebook"
-sleep 2 
-printf ">> "
-echo 'echo "my notebook" >> notebook, fill in the blank'
-read arg4 
-  echo "$arg4" >> notebook
-
-echo "good job" 
-
-echo "lastly you need to be able to open your notebook and any other files"
-sleep 2 
-echo "To do this type: cat notebook(enter)"
-printf ">> cat "
-read arg5 
-if [ "arg5" == "notebook" ]
-then 
-  cat notebook 
-else 
-  echo "Good Try"
+  clear 
+  echo 
 fi 
 
-# This is how to use the 4 functions. 
 
+echo " "
+echo "Lets practice some of the comands repeate after me :"
+sleep 2 
+echo "ls" 
+read  input1 
+if [ "$input1" == "ls" ]
+then
+  echo " "
+  ls 
+else 
+  echo good try
+fi 
 
+echo " "
+echo " Oh look a Help File!!, lets take a look" 
+echo " "
+cat .helpinfo
+
+echo Now try to cat Help 
+read input2 
+if [ "$input2" == "cat Help" ] 
+then 
+  echo "  "
+  cat .helpinfo2 
+  echo " "
+  echo " "
+  cat Help 
+else 
+  echo "good try"
+
+fi 
+sleep 20 
+clear
+echo 
+echo "Now you can go to any of the crime sceens to "
+echo "search trough, you are looking for the clues "
+echo "that will allow you to open the locked mystery"
+echo "box. Good luck.. try [cd ..(enter)] "
+echo 
+echo 
 

@@ -12,25 +12,25 @@
  | cd | Allows you to move from Folder to Folder 
   ----  "Directory to Directory" 
        ------------------------
- EX :  | cd Start-Here (enter) |
+ EX :  | cd Start-Here(enter) |
        ------------------------
   ----
  | ls | Allows you to list everything in that 
   ----  Directory 
       ------------------------
- EX : | ls Start-Here (enter) | 
+ EX : | ls Start-Here(enter) | 
       ------------------------
   -----
  | cat | which will show you what is inside a file 
   ----- 
        ------------------
- EX : | cat Help (enter) | 
+ EX : | cat Help(enter) | 
        ------------------
   ----
  | ./ | will run a program, if it has a .sh at the end 
   ----  it can be run.
         -----------------------
-  EX : | ./Beginning.sh (enter) |
+  EX : | ./Beginning.sh(enter) |
         -----------------------
 
    All statments need to be followed by an enter for

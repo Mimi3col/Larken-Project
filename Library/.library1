@@ -1,0 +1,27 @@
+ Hello, welcome to the library. To move around you
+ should know the comands 'ls', 'cd', 'cat', and to 
+ interact with the programs you need './'
+ 
+ as you know we can do basic commands in the terminal, 
+ if you 'cat ReadMe.md' you are able to see everything
+ inside the file, but we can also do multiple commands
+ on a single line.
+
+ this is done by useing the pipe command '|' between 
+ command portions. 
+
+ if we want to search though an output we need to use 
+ the command 'grep' but grep needs something to search
+ through so we have the 'pipe' commnad help it with a 
+ place to search through. 
+ 
+ if we do,
+
+    ls | grep 'Shelf'
+
+    the results of doing the ls command is sent to the 
+    grep command so it can search through for files and 
+    directories with the name Shelf 
+
+ try typeing it now: 
+

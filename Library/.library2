@@ -1,0 +1,22 @@
+ 
+ now, you are able to see all the shelves we have, what
+ would have happened if we were not so small, and had
+ hundreds of shelves. 
+
+ to have the terminal count the numebr of outputs we use 
+ the 'wc' command, but we only need to see the number of 
+ lines of output so we add on a ' -l' at the end of 'wc' 
+ to have 
+  
+  wc -l 
+
+  now if we type this in the terminal will not return 
+  anything. the wc -l command needs something to search
+  through much like 'grep'
+
+  try typing 
+
+  ls | wc -l  
+
+  this will take the output of ls and return the number of 
+  files and directories in the library 

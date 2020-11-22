@@ -1,0 +1,134 @@
+Heat Q and Work W
+Heat transfer ( Q ) and doing work ( W ) are the two everyday means of bringing energy into or taking energy out of a system.
+The processes are quite different. Heat transfer, a less organized process, is driven by temperature differences. Work, a quite
+organized process, involves a macroscopic force exerted through a distance. Nevertheless, heat and work can produce identical r
+esults.For example, both can cause a temperature increase. Heat transfer into a system, such as when the Sun warms the air in a
+bicycle tire, can increase its temperature, and so can work done on the system, as when the bicyclist pumps air into the tire.
+Once the temperature increase has occurred, it is impossible to tell whether it was caused by heat transfer or by doing work. T
+his uncertainty is an important point. Heat transfer and work are both energy in transit—neither is stored as such in a system.
+However, both can change the internal energy  U  of a system. Internal energy is a form of energy completely different from eith
+er heat or work.
+
+Internal Energy U
+We can think about the internal energy of a system in two different but consistent ways. The first is the atomic and molecular v
+iew, which examines the system on the atomic and molecular scale. The internal energy  U  of a system is the sum of the kinetic 
+and potential energies of its atoms and molecules. Recall that kinetic plus potential energy is called mechanical energy. Thus i
+nternal energy is the sum of atomic and molecular mechanical energy. Because it is impossible to keep track of all individual at
+oms and molecules, we must deal with averages 
+and distributions. A second way to view the internal energy of a system is in terms of its macroscopic characteristics, which are
+very similar to atomic and molecular average values.
+
+Macroscopically, we define the change in internal energy  ΔU  to be that given by the first law of thermodynamics:
+
+ΔU=Q−W.
+ 
+15.2
+Many detailed experiments have verified that  ΔU=Q−W , where  ΔU  is the change in total kinetic and potential energy of all atom
+s and molecules in a system. It has also been determined experimentally that the internal energy  U  of a system depends only on 
+the state of the system and not how it reached that state. More specifically,  U  is found to be a function of a few macroscopic q
+uantities (pressure, volume, and temperature, for example), independent of past history such as whether there has been heat transf
+er or work done. This independence means that if we know the state of a system, we can calculate changes in its internal energy  U
+from a few macroscopic variables.
+
+Human Metabolism and the First Law of Thermodynamics
+Human metabolism is the conversion of food into heat transfer, work, and stored fat. Metabolism is an interesting example of the fi
+rst law of thermodynamics in action. We now take another look at these topics via the first law of thermodynamics. Considering the
+body as the system of interest, we can use the first law to examine heat transfer, doing work, and internal energy in activities ra
+nging from sleep to heavy exercise. What are some of the major characteristics of heat transfer, doing work, and energy in the body?
+For one, body temperature is normally kept constant by heat transfer to the surroundings. This means  Q  is negative. Another fact 
+is that the body usually does work on the outside world. This means  W  is positive. In such situations, then, the body loses intern
+al energy, since  ΔU=Q−W  is negative.
+
+Now consider the effects of eating. Eating increases the internal energy of the body by adding chemical potential energy (this is a
+n unromantic view of a good steak). The body metabolizes all the food we consume. Basically, metabolism is an oxidation process in 
+which the chemical potential energy of food is released. This implies that food input is in the form of work. Food energy is report
+ed in a special unit, known as the Calorie. This energy is measured by burning food in a calorimeter, which is how the units are det
+ermined.
+
+In chemistry and biochemistry, one calorie (spelled with a lowercase c) is defined as the energy (or heat transfer) required to raise
+the temperature of one gram of pure water by one degree Celsius. Nutritionists and weight-watchers tend to use the dietary calorie, w
+hich is frequently called a Calorie (spelled with a capital C). One food Calorie is the energy needed to raise the temperature of one
+kilogram of water by one degree Celsius. This means that one dietary Calorie is equal to one kilocalorie for the chemist, and one mus
+t be careful to avoid confusion between the two.
+
+Again, consider the internal energy the body has lost. There are three places this internal energy can go—to heat transfer, to doing w
+ork, and to stored fat (a tiny fraction also goes to cell repair and growth). Heat transfer and doing work take internal energy out of
+
+the body, and food puts it back. If you eat just the right amount of food, then your average internal energy remains constant. Whatever
+you lose to heat transfer and doing work is replaced by food, so that, in the long run,  ΔU=0 . If you overeat repeatedly, then  ΔU  is
+always positive, and your body stores this extra internal energy as fat. The reverse is true if you eat too little. If  ΔU  is negative 
+for a few days, then the body metabolizes its own fat to maintain body temperature and do work that takes energy from the body. This pro
+  cess is how dieting produces weight loss.
+
+Life is not always this simple, as any dieter knows. The body stores fat or metabolizes it only if energy intake changes for a period o
+f several days. Once you have been on a major diet, the next one is less successful because your body alters the way it responds to low 
+energy intake. Your basal metabolic rate (BMR) is the rate at which food is converted into heat transfer and work done while the body is
+at complete rest. The body adjusts its basal metabolic rate to partially compensate for over-eating or under-eating. The body will decre
+Reversible Processes
+Both isothermal and adiabatic processes such as shown in Figure 15.13 are reversible in principle. A reversible process is one in which bo
+th the system and its environment can return to exactly the states they were in by following the reverse path. The reverse isothermal and
+adiabatic paths are BA and CA, respectively. Real macroscopic processes are never exactly reversible. In the previous examples, our syste
+m is a gas (like that in Figure 15.9), and its environment is the piston, cylinder, and the rest of the universe. If there are any energy
+-dissipating mechanisms, such as friction or turbulence, then heat transfer to the environment occurs for either direction of the piston.
+So, for example, if the path BA is followed and there is friction, then the gas will be returned to its original state but the environmen
+t will not—it will have been heated in both directions. Reversibility requires the direction of heat transfer to reverse for the reverse 
+path. Since dissipative mechanisms cannot be completely eliminated, real processes cannot be reversible.
+
+There must be reasons that real macroscopic processes cannot be reversible. We can imagine them going in r
+everse. For example, heat transfer occurs spontaneously from hot to cold and never spontaneously the reverse. Yet it would not violate the 
+first law of thermodynamics for this to happen. In fact, all spontaneous processes, such as bubbles bursting, never go in reverse. There is
+a second thermodynamic law that forbids them from going in reverse. When we study this law, we will learn something about nature and also f
+ind that such a law limits the efficiency of heat engines. We will find that heat engines with the greatest possible theoretical efficiency
+would have to use reversible processes, and even they cannot convert all heat transfer into doing work. Table 15.2 summarizes the simpler 
+thermodynamic processes and their definitions.ase the metabolic rate rather than eliminate its own fat to replace lost food intake. You wil
+l chill more easily and feel less energetic
+as a result of the lower metabolic rate, and you will not lose weight as fast as before. Exercise helps to lose weight, because it produ
+ces both heat transfer from your body and work, and raises your metabolic rate even when you are at rest. Weight loss is also aided by th
+e quite low efficiency of the body in converting internal energy to work, so that the loss of internal energy resulting from doing work 
+is much greater than the work done.It should be noted, however, that living systems are not in thermalequilibrium.
+
+The body providesus with an excellent indication that many thermodynamic processes are irreversible. An irreversible process can go in o
+ne direction but not the reverse, under a given set of conditions. For example, although body fat can be converted to do work and produc
+e heat transfer, work done on the body and heat transfer into it cannot be converted to body fat. Otherwise, we could skip lunch by sunn
+ing ourselves or by walking down stairs. Another example of an irreversible thermodynamic process is photosynthesis. This process is the
+intake of one form of energy—light—by plants and its conversion to chemical potential energy. Both applications of the first law of therm
+odynamics are illustrated in Figure 15.5. One great advantage of conservation laws such as the first law of thermodynamics is that they a
+ccurately describe the beginning and ending points of complex processes, such as metabolism and photosynthesis, without regard to the com
+plications in between. Table 15.1 presents a summary of terms relevant to the first law of thermodynamics. 
+The second law of thermodynamics deals with the direction taken by spontaneous processes. Many processes occur spontaneously in one direct
+ion only—that is, they are irreversible, under a given set of conditions. Although irreversibility is seen in day-to-day life—a broken gla
+ss does not resume its original state, for instance—complete irreversibility is a statistical statement that cannot be seen during the lif
+etime of the universe. More precisely, an irreversible process is one that depends on path. If the process can go in only one direction, t
+hen the reverse path differs fundamentally and the process cannot be reversible. For example, as noted in the previous section, heat involv
+es the transfer of energy from higher to lower temperature. A cold object in contact with a hot one never gets colder, transferring heat to
+the hot object and making it hotter. Furthermore, mechanical energy, such as kinetic energy, can be completely converted to thermal energy
+by friction, but the reverse is impossible. A hot stationary object never spontaneously cools off and starts moving. Yet another example is
+the expansion of a puff of gas introduced into one corner of a vacuum chamber. The gas expands to fill the chamber, but it never regroups in
+the corner. The random motion of the gas molecules could take them all back to the corner, but this is never observed to happen. (See Figure
+15.16.)With the information given in Example 15.3, we can find characteristics such as the efficiency of a heat engine without any knowled
+ge of how the heat engine operates, but looking further into the mechanism of the engine will give us greater insight. Figure 15.18 illus
+trates the operation of the common four-stroke gasoline engine. The four steps shown complete this heat engine’s cycle, bringing the gasol
+ine-air mixture back to its original condition.
+
+The Otto cycle shown in Figure 15.19(a) is used in four-stroke internal combustion engines, although in fact the true Otto cycle paths do
+not correspond exactly to the strokes of the engine.
+
+The adiabatic process AB corresponds to the nearly adiabatic compression stroke of the gasoline engine. In both cases, work is done on the
+system (the gas mixture in the cylinder), increasing its temperature and pressure. Along path BC of the Otto cycle, heat transfer  Qh  int
+o the gas occurs at constant volume, causing a further increase in pressure and temperature. This process corresponds to burning fuel in a
+n internal combustion engine, and takes place so rapidly that the volume is nearly constant. Path CD in the Otto cycle is an adiabatic exp
+ansion that does work on the outside world, just as the power stroke of an internal combustion engine does in its nearly adiabatic expans
+ion. The work done by the system along path CD is greater than the work done on the system along path AB, because the pressure is greater,
+and so there is a net work output. Along path DA in the Otto cycle, heat transfer  Qc  from the gas at constant volume reduces its tempera
+ture and pressure, returning it to its original state. In an internal combustion engine, this process corresponds to the exhaust of hot gas
+es and the intake of an air-gasoline mixture at a considerably lower temperature. In both cases, heat transfer into the environment occurs
+along this final path.
+
+
+The net work done by a cyclical process is the area inside the closed path on a  PV  diagram, such as that inside path ABCDA in Figure 15.
+19. Note that in every imaginable cyclical process, it is absolutely necessary for heat transfer from the system to occur in order to get 
+a net work output. In the Otto cycle, heat transfer occurs along path DA. If no heat transfer occurs, then the return path is the same, and
+the net work output is zero. The lower the temperature on the path AB, the less work has to be done to compress the gas. The area inside th
+e closed path is then greater, and so the engine does more work and is thus more efficient. Similarly, the higher the temperature along pat
+h CD, the more work output there is. (See Figure 15.20.) So efficiency is related to the temperatures of the hot and cold reservoirs. In the
+next section, we shall see what the absolute limit to the efficiency of a heat engine is, and how it is related to temperature.
