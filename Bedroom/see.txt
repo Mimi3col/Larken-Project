@@ -1,8 +1,0 @@
-#!/bin/bash 
-
-
- echo "The drawer is locked"
-
-  echo "You hear someone running in the background so you hurry to insert the key" 
-   echo "As you open the drawer, you found a file named secret"
-   echo "The file is sealed shut in a container. How can you get the file?" 
