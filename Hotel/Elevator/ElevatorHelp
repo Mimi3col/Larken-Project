@@ -1,0 +1,12 @@
+To fix the elevator, you'll need to create a variable in the bash script
+
+To do this, enter vim using "vim Elevator.sh"
+
+Then, press 'i' to enter insert mode and on the second line, create a variable called simplevariable and set it equal to 10
+
+To create a variable, you write the name, an equals sign, and then the value to assign to the variable
+
+EX: var=0
+
+Make sure to not put a space in between the variable name and the value or else the elevator won't work
+
