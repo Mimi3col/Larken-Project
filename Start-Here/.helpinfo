@@ -1,0 +1,7 @@
+ When you need help in a section, all you need to do is 
+ 'cat Help' without the ' '. You should know that by catting
+ a file you are able to look inside it. 
+ so if you cat Help, you will be able to see inside the help
+ file.
+
+

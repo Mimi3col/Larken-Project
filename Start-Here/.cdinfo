@@ -1,0 +1,25 @@
+
+  The cd command only gets you into places, it cant get you back out unless
+  you do  .. 
+                                     -------------
+        An example would be    -->  |cd .. (enter)|   
+                                     -------------  
+ as you know the 'cd' means to chage directory, the two dots you see
+ (..) befor the location desination just mean  you are heading back 
+ from your current location to the main town square(Console) and then travling
+ to the new location. 
+
+ >> Console 
+    >> Start-Here (you are here)
+    >> Library  -> cd ../Library 
+    >> Docks -> cd ../Docks 
+    >> Hotel -> cd ../Hotel
+    >> Bedroom -> cd ../Bedroom
+ (how to get to another location from Start-Here)
+
+ to get to any of the following placese you would need to input the
+ following command 
+  -----------------------
+ |cd ../'location'(enter)| 
+  -----------------------
+ 

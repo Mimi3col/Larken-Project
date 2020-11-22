@@ -1,0 +1,23 @@
+             _        
+   /\  /\___| |_ __   
+  / /_/ / _ \ | '_ \  
+ / __  /  __/ | |_) | 
+ \/ /_/ \___|_| .__/  
+              |_|
+
+You are viewing the Help screen 
+
+The Comands you have learned so far are 
+cd  : change Directory 
+ls  : list 
+cat : Show inside a file
+./  : run operator 
+
+We are currently in the Start-Here Directory
+
+you need to run the Beginning.sh fie 
+  
+   -----------------------
+  | ./Beginning.sh (enter) |
+   -----------------------
+

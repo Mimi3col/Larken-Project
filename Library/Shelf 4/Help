@@ -1,0 +1,22 @@
+            _        
+  /\  /\___| |_ __   
+ / /_/ / _ \ | '_ \  
+/ __  /  __/ | |_) | 
+\/ /_/ \___|_| .__/ 
+             |_|    
+
+You are on one of the shelves of the library
+to get back out to the library do the command 
+
+cd .. ( enter )
+
+to search though one of the books use the commands 
+cat 'Book' | grep 'word'
+
+remeber you are looking for a code: one number will
+be found on each of the shelves. 
+
+to open the locked cabnet you must enter the number in
+the correct order. 
+
+
