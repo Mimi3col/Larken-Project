@@ -6,8 +6,8 @@
    \/  \/ \___|_|\___\___/|_| |_| |_|\___| 
  __________________________________________                                          
 
- Hello, Welcome to the game. To start off you need
- to know a couple commands....
+ Hello, Welcome to the game. To start, you need
+ to know a couple of commands....
   ----
  | cd | Allows you to move from Folder to Folder 
   ----  "Directory to Directory" 
@@ -33,7 +33,7 @@
   EX : | ./Beginning.sh (enter) |
         -----------------------
 
-   All statments need to be followed by an enter for
+   All statements need to be followed by an enter for
    the console to do the command
 
  Thank you for joining us on this mystery to find...
